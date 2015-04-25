@@ -1,0 +1,6 @@
+adapter: 'postgresql'
+database: 'watchman'
+username: 'anhvu'
+password: 'anhvu'
+encoding: 'utf8'
+pool: 5

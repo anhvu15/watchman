@@ -1,0 +1,12 @@
+1. describe ways to persist
+2. YML
+3. sqllite, mysql --postgre
+4. create simple application use postgres
+
+--Database
+1 MySQL --LAMP
+2 SQLite3 --default rails development and test db (run locally just a file)
+3 Postgres
+	--full text searching
+	--geolicating
+	--
